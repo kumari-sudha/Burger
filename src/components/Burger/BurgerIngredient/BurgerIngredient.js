@@ -36,8 +36,6 @@ class BurgerIngredient extends React.Component {
   }
 }
 
-
-
 BurgerIngredient.propTypes = {
     type:propTypes.string.isRequired,
 }
